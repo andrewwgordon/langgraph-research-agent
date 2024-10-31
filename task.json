@@ -1,0 +1,16 @@
+{
+    "query": "Using Generative AI and Large Language Models with Computer Aided Design.",
+    "max_sections": 3,
+    "publish_formats": {
+      "markdown": true,
+      "pdf": false,
+      "docx": false
+    },
+    "include_human_feedback": true,
+    "follow_guidelines": false,
+    "model": "gpt-4o",
+    "guidelines": [
+      "Produce the report in an engaging style suitable for a Blog post"
+    ],
+    "verbose": true
+  }
